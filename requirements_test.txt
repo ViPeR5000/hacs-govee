@@ -9,7 +9,7 @@ govee_api_laggat
 homeassistant
 jinja2==2.11.3
 markupsafe==2.0.1
-pylint==2.6.0
+pylint==2.6.1
 pytest
 pytest-asyncio
 pytest-cov
